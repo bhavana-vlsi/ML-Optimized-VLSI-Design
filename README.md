@@ -20,7 +20,19 @@ recognized among entries from six colleges.
   - Area–Power Trade-off Analysis
 
 ---
+## 🧠 Description about this project
 
+ - Complete RTL-to-Layout Flow: Designed a low-power PicoRV32 ALU using open-source tools like Yosys, Graywolf, Qrouter, and OpenTimer.
+
+- ML-Guided Optimization: Integrated machine learning models for hotspot detection, placement guidance, and area–power trade-off analysis.
+
+- Power & Timing Efficiency: Achieved reduced IR-drop, improved placement, and better power–slack balance through iterative ML feedback.
+
+- Poster Presentation: Presented the project at an intercollegiate event and earned a Special Mention Award with a cash prize.
+
+- Open-Source & Reproducible: The entire flow is script-driven and reproducible, showcasing the potential of ML in physical design automation.
+
+  ---
 ## 📌 Poster Preview
 
 > 🏆 _Special Mention Award – Poster Presentation_  
