@@ -9,6 +9,7 @@ recognized among entries from six colleges.
 
 ---
 
+
 ## 🧠 Project Highlights
 
 - 🔧 **Tools Used**: Yosys, Graywolf, Qrouter, OpenTimer, Python, ML models
@@ -26,6 +27,7 @@ recognized among entries from six colleges.
 > _Presented at Geethanjali College of Engineering and Technology, 2025_
 
 
+<img width="1536" height="1024" alt="ir b a" src="https://github.com/user-attachments/assets/b7eb5480-a64c-4c96-9cef-6c760ff26453" />
 
 ---
 
