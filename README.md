@@ -29,7 +29,11 @@ recognized among entries from six colleges.
 
 <img width="1536" height="1024" alt="ir b a" src="https://github.com/user-attachments/assets/b7eb5480-a64c-4c96-9cef-6c760ff26453" />
 
----
+<img width="1536" height="1024" alt="pl b a" src="https://github.com/user-attachments/assets/4eb44fd0-290c-445a-ab95-b0240de25a69" />
+
+<img width="800" height="600" alt="area vs pt" src="https://github.com/user-attachments/assets/ca32e1d0-e6dd-4f3c-a17f-d1404a145899" />
+
 
 ## 📁 Repository Structure
+
 
